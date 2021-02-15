@@ -1,0 +1,22 @@
+def sum(a, b):
+    c=a+b
+    print(c)
+        sum(5, 10)
+        def sum_with_return(a, b):
+    c=a+b
+    print(c)
+    a=d
+b=e
+sum_with_return(5, 10)
+print('d+e')
+a=d
+b=e
+sum_with_return(5, 10)
+print('d+e')
+in_both('apples', 'oranges')
+word = 'in_both'
+count = 0
+for letter in word:
+    common letter:
+        count = count + 1
+print(count)
